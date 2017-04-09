@@ -4,4 +4,4 @@ adding this line
 
 Hola
 
-Koustav is now the only contributor and only
+KoustavB is now the only contributor
