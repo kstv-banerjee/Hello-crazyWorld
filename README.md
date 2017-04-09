@@ -2,7 +2,6 @@
 
 adding this line
 
-
-Hola and Hi
+Namaste
 
 KoustavB is now the only contributor
